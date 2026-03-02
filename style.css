@@ -1,0 +1,36 @@
+.footer {
+position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(117, 117, 117);
+  color: white;
+  text-align: center;
+}
+
+.menu{
+  text-align: center;
+  background-color: #57cc9943;
+  /* margin-top: 150px; */
+  margin: 50px;
+  border-radius: 10px;
+}
+
+.matrix {
+  background-color: #57CC99;
+  border-radius: 10px;
+  margin-left:700px;
+  padding-bottom: 90px;
+  /* margin-top: 150px; */
+  
+}
+
+.test{
+  margin-left: 500px;
+  padding-bottom: 380px;
+  background-color: #57CC99;
+}
+
+
+
+
